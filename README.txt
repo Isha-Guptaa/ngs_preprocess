@@ -40,7 +40,7 @@ This pipeline performs two main tasks:
 
 1. Clone this repository:
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/Isha-Guptaa/ngs_preprocess.git>
    cd fastqc-pipeline
    ```
 
