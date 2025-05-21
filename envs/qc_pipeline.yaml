@@ -1,0 +1,16 @@
+name: qc_pipeline
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - python=3.9
+  - pandas=1.5.*
+  - fastqc=0.12.*
+  - biopython=1.81
+  - numpy=1.24.*
+  - scipy=1.10.*
+  - matplotlib=3.7.*
+  - pip=23.1.*
+  - pip:
+    - seaborn==0.12.*
